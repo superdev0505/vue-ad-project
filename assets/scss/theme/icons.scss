@@ -1,0 +1,203 @@
+// @font-face {
+//     font-family: 'fontello';
+//     src: url('~/assets/fonts/fontello.eot?54368416');
+//     src: url('~/assets/fonts/fontello.eot?54368416#iefix') format('embedded-opentype'),
+//          url('~/assets/fonts/fontello.woff2?54368416') format('woff2'),
+//          url('~/assets/fonts/fontello.woff?54368416') format('woff'),
+//          url('~/assets/fonts/fontello.ttf?54368416') format('truetype'),
+//          url('~/assets/fonts/fontello.svg?54368416#fontello') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+//   }
+//   /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+//   /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+//   /*
+//   @media screen and (-webkit-min-device-pixel-ratio:0) {
+//     @font-face {
+//       font-family: 'fontello';
+//       src: url('~/assets/font/fontello.svg?54368416#fontello') format('svg');
+//     }
+//   }
+//   */
+   
+//    [class^="icon-"]:before, [class*=" icon-"]:before {
+//     font-family: "fontello";
+//     font-style: normal;
+//     font-weight: normal;
+//     speak: none;
+   
+//     display: inline-block;
+//     text-decoration: inherit;
+//     width: 1em;
+//     margin-right: .2em;
+//     text-align: center;
+//     /* opacity: .8; */
+   
+//     /* For safety - reset parent styles, that can break glyph codes*/
+//     font-variant: normal;
+//     text-transform: none;
+   
+//     /* fix buttons height, for twitter bootstrap */
+//     line-height: 1em;
+   
+//     /* Animation center compensation - margins should be symmetric */
+//     /* remove if not needed */
+//     margin-left: .2em;
+   
+//     /* you can be more comfortable with increased icons size */
+//     /* font-size: 120%; */
+   
+//     /* Font smoothing. That was taken from TWBS */
+//     -webkit-font-smoothing: antialiased;
+//     -moz-osx-font-smoothing: grayscale;
+   
+//     /* Uncomment for 3D effect */
+//     /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+//   }
+   
+//   .icon-search:before { content: '\e800'; } /* '' */
+//   .icon-left-open:before { content: '\e801'; } /* '' */
+//   .icon-right-open:before { content: '\e802'; } /* '' */
+//   .icon-chart-line:before { content: '\e803'; } /* '' */
+//   .icon-twitter:before { content: '\f099'; } /* '' */
+//   .icon-facebook:before { content: '\f09a'; } /* '' */
+//   .icon-rss:before { content: '\f09e'; } /* '' */
+//   .icon-gplus:before { content: '\f0d5'; } /* '' */
+//   .icon-linkedin:before { content: '\f0e1'; } /* '' */
+//   .icon-angle-up:before { content: '\f106'; } /* '' */
+//   .icon-angle-down:before { content: '\f107'; } /* '' */
+//   .icon-youtube:before { content: '\f167'; } /* '' */
+//   .icon-pinterest:before { content: '\f231'; } /* '' */
+
+
+  @font-face {
+    font-family: 'icomoon';
+    font-display: auto;
+    src:  url('~/assets/fonts/icons/icomoon.eot?kw356k');
+    src:  url('~/assets/fonts/icons/icomoon.eot?kw356k#iefix') format('embedded-opentype'),
+      url('~/assets/fonts/icons/icomoon.ttf?kw356k') format('truetype'),
+      url('~/assets/fonts/icons/icomoon.woff?kw356k') format('woff'),
+      url('~/assets/fonts/icons/icomoon.svg?kw356k#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+//   [class^="icon-"], [class*=" icon-"] {
+//     /* use !important to prevent issues with browser extensions that change fonts */
+//     font-family: 'icomoon' !important;
+//     speak: none;
+//     font-style: normal;
+//     font-weight: normal;
+//     font-variant: normal;
+//     text-transform: none;
+//     line-height: 1;
+  
+//     /* Better Font Rendering =========== */
+//     -webkit-font-smoothing: antialiased;
+//     -moz-osx-font-smoothing: grayscale;
+//   }
+[class^="icon-"]:before, [class*=" icon-"]:before {
+    font-family: "icomoon";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+   
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    /* opacity: .8; */
+   
+    /* For safety - reset parent styles, that can break glyph codes*/
+    font-variant: normal;
+    text-transform: none;
+   
+    /* fix buttons height, for twitter bootstrap */
+    line-height: 1em;
+   
+    /* Animation center compensation - margins should be symmetric */
+    /* remove if not needed */
+    margin-left: .2em;
+   
+    /* you can be more comfortable with increased icons size */
+    /* font-size: 120%; */
+   
+    /* Font smoothing. That was taken from TWBS */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+   
+    /* Uncomment for 3D effect */
+    /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+  
+  .icon-email:before {
+    content: "\e915";
+  }
+  .icon-arrow-carousel-left:before {
+    content: "\e900";
+  }
+  .icon-arrow-carousel-right:before {
+    content: "\e901";
+  }
+  .icon-arrow-dropdown-carot:before {
+    content: "\e902";
+  }
+  .icon-arrow-menu-down:before {
+    content: "\e903";
+  }
+  .icon-close:before {
+    content: "\e904";
+  }
+  .icon-exit-full-screen:before {
+    content: "\e905";
+  }
+  .icon-expand-full-screen:before {
+    content: "\e906";
+  }
+  .icon-link-arrow-right:before {
+    content: "\e907";
+  }
+   .icon-link-arrow-left:before {
+    content: "\e908";
+  }
+  .icon-menu-hamburger:before {
+    content: "\e909";
+  }
+  .icon-photos-camera:before {
+    content: "\e90a";
+  }
+  .icon-search:before {
+    content: "\e90b";
+  }
+  .icon-social-facebook:before {
+    content: "\e90c";
+  }
+  .icon-social-google:before {
+    content: "\e90d";
+  }
+  .icon-social-instagram:before {
+    content: "\e90e";
+  }
+  .icon-social-linkedin:before {
+    content: "\e90f";
+  }
+  .icon-social-pinterest:before {
+    content: "\e910";
+  }
+  .icon-social-reddit:before {
+    content: "\e911";
+  }
+  .icon-social-rss:before {
+    content: "\e912";
+  }
+  .icon-social-twitter:before {
+    content: "\e913";
+  }
+  .icon-social-youtube:before {
+    content: "\e914";
+  }
+  .icon-trending:before {
+    content: "\e915";
+  }
+  

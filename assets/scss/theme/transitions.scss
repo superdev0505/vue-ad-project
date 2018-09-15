@@ -1,0 +1,112 @@
+.slide-enter-active, .slide-leave-active {
+  // transition: right 5s ease;
+  .slide-container {
+    transition: right .3s ease;
+  }
+}
+
+.slide-enter, .slide-leave-to {
+  .slide-container {
+    right: -40% !important;
+  }
+}
+
+.slide-leave, .slide-enter-to {
+  .slide-container {
+    right: 0 !important;
+  }
+}
+
+// .fade-enter-active, .fade-leave-active {
+//   transition: opacity 0.3s
+// }
+
+// .fade-enter, .fade-leave-active {
+//   opacity: 0
+// }
+
+// .slide-leave, .slide-enter-to {
+//   opacity: 1 !important;
+// }
+
+.fade-enter-active, .fade-leave-active {
+    transition: all 0.8s ease;
+    overflow: hidden;
+    visibility: visible;
+    opacity: 1;
+    position: absolute;
+}
+.fade-enter, .fade-leave-to {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.grow-enter-active, .grow-leave-active {
+    transition: all 0.2s ease;
+    overflow: hidden;
+    transform: none;
+    //border-radius: none;
+}
+.grow-enter, .grow-leave-to {
+    transform: translateX(100%) translateY(-100%) scaleX(0.5);
+    //border-radius: 50%;
+}
+
+
+.featured-next {
+    backface-visibility: hidden;
+    z-index: 1;
+}
+.featured-next-move {
+    transition: all 600ms ease-in-out 50ms;
+}
+.featured-next-enter-active {
+    transition: all 400ms ease-out;
+}
+.featured-next-leave-active {
+    transition: all 200ms ease-in;
+    position: absolute;
+    z-index: 0;
+}
+.featured-next-enter {
+    opacity: 0;
+    transform: translateX(100%);
+}
+.featured-next-leave-to {
+    opacity: 0;
+    transform: translateX(-100%);
+}
+
+.featured-prev {
+    backface-visibility: hidden;
+    z-index: 1;
+}
+.featured-prev-move {
+    transition: all 600ms ease-in-out 50ms;
+}
+.featured-prev-enter-active {
+    transition: all 400ms ease-out;
+}
+.featured-prev-leave-active {
+    transition: all 200ms ease-in;
+    position: absolute;
+    z-index: 0;
+}
+.featured-prev-enter {
+    opacity: 0;
+    transform: translateX(-100%);
+}
+.featured-prev-leave-to {
+    opacity: 0;
+    transform: translateX(100%);
+}
+
+.vanish-enter-active, .vanish-leave-active {
+    visibility: hidden;
+}
+.vanish-leave, .vanish-enter-to {
+    visibility: visible;
+}
+.vanish-enter, .vanish-leave-to {
+    visibility: hidden;
+}

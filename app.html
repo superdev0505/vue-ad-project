@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html {{ HTML_ATTRS }}>
+  <head>
+    <meta data-n-head="true" charset="utf-8"/>
+    {{ ENV.newRelicHeader }}
+    <script>
+        window.lazySizesConfig = window.lazySizesConfig || {}
+        window.lazySizesConfig.loadMode = 3
+        window.lazySizesConfig.expFactor = 3
+        window.lazySizesConfig.expand = 1000
+    </script>
+    {{ HEAD }}
+  </head>
+  <body {{ BODY_ATTRS }}>
+    {{ APP }}
+  </body>
+</html>

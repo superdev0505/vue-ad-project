@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="257px" height="21px" viewBox="0 0 257 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo - Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13.2386667 17 13.2386667 12.9700434 6.54533333 12.9700434 3.914 17 0 17 11.906 0 16.348 0 16.5586667 17"></polygon>
+        <polygon id="path-2" points="38.0393333 17 34.418 17 34.418 9.66259388 27.6333333 9.66259388 27.6333333 17 24 17 24 0 27.6333333 0 27.6333333 6.6626717 34.418 6.6626717 34.418 0 38.0393333 0"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary-nav---desktop" transform="translate(-22.000000, -29.000000)">
+            <g id="Logo---Desktop" transform="translate(24.000000, 23.000000)">
+                <g id="Group-3" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 8.000000)">
+                    <g id="Fill-1" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="#E71E25" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#FFFFFF" stroke-width="2" d="M12.2386667,13.9700434 L7.08668267,13.9700434 L4.45534934,18 L-1.92121094,18 L11.3854949,-1 L17.3356846,-1 L17.5711356,18 L12.2386667,18 L12.2386667,13.9700434 Z"></path>
+                    </g>
+                    <g id="Fill-4" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="#E71E25" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <path stroke="#FFFFFF" stroke-width="2" d="M33.418,10.6625939 L28.6333333,10.6625939 L28.6333333,18 L23,18 L23,-1 L28.6333333,-1 L28.6333333,5.6626717 L33.418,5.6626717 L33.418,-1 L39.0393333,-1 L39.0393333,18 L33.418,18 L33.418,10.6625939 Z"></path>
+                    </g>
+                    <path d="M13.2386,2.3268 C13.2386,2.3268 11.0592667,5.79946667 8.49726667,9.7448 L13.2386,9.7448 L13.2386,2.3268 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+                <text id="Android" font-family="NotoSans-Light, Noto Sans" font-size="24" font-weight="300" letter-spacing="-0.5" fill="#FFFFFF">
+                    <tspan x="57" y="26">Androi</tspan>
+                    <tspan x="125.976" y="26">d</tspan>
+                </text>
+                <text id="Headlines" font-family="NotoSans-Bold, Noto Sans" font-size="24" font-weight="bold" letter-spacing="-0.5" fill="#FFFFFF">
+                    <tspan x="141" y="26">Headline</tspan>
+                    <tspan x="243.824" y="26">s</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

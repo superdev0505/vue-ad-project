@@ -1,0 +1,153 @@
+<html>
+    <head>
+        <style>
+
+            body {
+                margin: 0;
+            }
+
+            .gsc-control-cse {
+                padding: 0 !important;
+            }
+
+            .gs-webResult div.gs-visibleUrl, 
+            .gs-imageResult div.gs-visibleUrl {
+                font-size: 14px !important;
+                color: #006621 !important;
+            }
+
+            .gsc-control-cse .gs-spelling, 
+            .gsc-control-cse .gs-result .gs-title, 
+            .gsc-control-cse .gs-result .gs-title * {
+                font-size: 18px !important;
+                margin-bottom: .25em !important;
+                text-decoration: none !important;
+            }
+
+            .e_,
+            .fa_ {
+                font-size: 14px !important;
+                color: #006621 !important;
+            }
+
+            .gsc-control-cse, 
+            .gsc-control-cse .gsc-table-result {
+                font-size: 14px !important;
+            }
+
+            .gsc-results .gsc-cursor-box .gsc-cursor-page {
+                font-size: 16px !important;
+                margin-right: 14px !important;   
+                color: #4285f4 !important;     
+            }
+
+            .gs-webResult.gs-result a.gs-title:link, 
+            .gs-webResult.gs-result a.gs-title:link b, 
+            .gs-imageResult a.gs-title:link, 
+            .gs-imageResult a.gs-title:link b {
+                color: #1a0dab !important;
+                font-size: 18px !important;
+            }
+
+            .gs-webResult.gs-result a.gs-title:visited, 
+            .gs-webResult.gs-result a.gs-title:visited b, 
+            .gs-imageResult a.gs-title:visited, 
+            .gs-imageResult a.gs-title:visited b {
+                color: #609 !important;
+            }
+
+            .gs-result .gs-title, 
+            .gs-result .gs-title * {
+                text-decoration: none !important;
+                margin-bottom: 6px !important;                
+            }
+
+            .gs-webResult .gs-snippet, 
+            .gs-imageResult .gs-snippet, 
+            .gs-fileFormatType {
+                color: #545454 !important;
+            }
+
+            input.gsc-input {
+                font-size: 20px !important;
+            }
+
+            .gsib_a {
+                padding: 0.5em 1em !important;
+            }
+
+            .gsc-above-wrapper-area {
+                border-bottom: 1px solid #DDD !important;
+                padding: 0 6px 18px !important;
+                background: #fafafa !important;
+                margin-bottom: 1em !important;
+            }
+
+            form.gsc-search-box {
+                font-size: 13px;
+                margin-top: 0;
+                margin-right: 0;
+                margin-bottom: 0 !important;
+                margin-left: 0;
+                width: 100%;
+                padding: 24px 12px !important;
+                background: #fafafa !important;
+                box-sizing: border-box !important;
+            }
+
+            .gsc-input-box,
+            .gsc-input-box-hover,
+            .gsc-input-box-focus {
+                background-color: #fff;
+                vertical-align: top;
+                border-radius: 2px;
+                box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08) !important;
+                border: none !important;
+            }
+
+            .gsc-input-box-focus {
+                box-shadow: 0 2px 2px 0 rgba(0,0,0,0.3), 0 0 0 1px rgba(0,0,0,0.1) !important;
+            }
+
+            .gsc-search-button-v2, 
+            .gsc-search-button-v2:hover, 
+            .gsc-search-button-v2:focus {
+                border-color: #4285f4 !important;
+                background-color: #4285f4 !important;
+                padding: 10px 24px !important;
+                cursor: pointer !important;
+            }
+
+            .gsc-search-button-v2:hover {
+                border-color: #3878e4 !important;
+                background-color: #3878e4 !important;
+            }
+
+            .gsst_a .gscb_a {
+                margin-right: 10px !important;
+                color: #4285f4 !important;
+            } 
+            .gsc-search-button-v2 svg {
+                width: 18px !important;
+                height: 18px !important;
+            }
+
+            .gsc-adBlock {
+                border-bottom: 1px solid #DDD !important;
+                margin-bottom: 12px;
+                padding-bottom: 18px !important;            }
+
+        </style>
+    </head>
+    <body>
+        <gcse:search queryParameterName="s"></gcse:search>
+        <script>
+            (function() {
+            var cx = window.location.hash.substring(1);
+            var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+            })();
+        </script>
+    </body>
+</html>

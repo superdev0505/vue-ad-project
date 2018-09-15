@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="259px" height="20px" viewBox="0 0 259 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Footer Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer---Lg-Desktop" transform="translate(-69.000000, -131.000000)" fill="#FFFFFF">
+            <g id="Footer-Logo" transform="translate(69.000000, 124.000000)">
+                <g id="logo">
+                    <g id="Group-3" transform="translate(0.000000, 8.000000)">
+                        <path d="M13.2386,3.3268 C13.2386,3.3268 11.0592667,6.79946667 8.49726667,10.7448 L13.2386,10.7448 L13.2386,3.3268 Z M13.2386,17.8694667 L13.2386,13.7914667 L6.54526667,13.7914667 L3.91393333,17.8694667 L-6.66666667e-05,17.8694667 L11.9059333,0.6668 L16.3479333,0.6668 L16.5586,17.8694667 L13.2386,17.8694667 Z" id="Fill-1"></path>
+                        <polygon id="Fill-4" points="33.6836 17.8698 30.0622667 17.8698 30.0622667 10.4751333 23.2776 10.4751333 23.2776 17.8698 19.6442667 17.8698 19.6442667 0.737133333 23.2776 0.737133333 23.2776 7.4518 30.0622667 7.4518 30.0622667 0.737133333 33.6836 0.737133333"></polygon>
+                    </g>
+                    <text id="Android" font-family="NotoSans-Light, Noto Sans" font-size="24" font-weight="300">
+                        <tspan x="56" y="26">Android</tspan>
+                    </text>
+                    <text id="Headlines" font-family="NotoSans-Bold, Noto Sans" font-size="24" font-weight="bold" letter-spacing="-0.5">
+                        <tspan x="145" y="26">Headline</tspan>
+                        <tspan x="247.824" y="26">s</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

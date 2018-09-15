@@ -1,0 +1,90 @@
+button {
+    font-family: $base-font-family;
+}
+
+.btn {
+    border-radius: 3px;
+    display: inline-block;
+    width: auto;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    line-height: 1.15;
+    user-select: none;
+    border: 0;
+    margin: 0.25rem 0;
+    padding: 0.75rem 2rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 500;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+
+    &:link, &:hover, &:focus, &:visited {
+        text-decoration: none;
+    }
+
+    &__grouped {
+        .btn {
+        margin-right: 0.5rem;
+
+        &:last-child {
+            margin-right: 0;
+        }
+        }
+    }
+
+    &--small {
+        font-size: 0.625rem;
+        padding: 0.4rem 2rem;
+    }
+
+    &--primary {
+        border: 1px solid $color-primary;
+        background-color: $color-primary;
+        color: $color-white;
+
+        &:hover {
+            background-color: darken($color-primary, 5%);
+            transition: all .25s ease-in-out;
+        }
+        &-reversed {
+        background-color: $color-accent-4;
+        border: 1px solid $color-accent-4;
+        color: $color-accent-1;
+        }
+    }
+    &--secondary {
+        border: 1px solid $color-accent-1;
+        color: $color-accent-1;
+        background-color: transparent;
+        &-reversed {
+        border: 1px solid $color-accent-4;
+        color: $color-accent-4;
+        }
+    }
+    &--tertiary {
+        color: $color-accent-1;
+        background: transparent;
+        padding: 1px;
+        &-reversed {
+        color: $color-accent-4;
+        }
+    }
+    &--disabled {
+        color: $color-accent-3;
+        border: 1px solid $color-accent-3;
+        background-color: $color-accent-4;
+        &-reversed {
+        background-color: $color-accent-1;
+        }
+    }
+    &--block {
+        display: block;
+        width: 100%;
+    }
+    &__icon {
+        float: right;
+        line-height: 1;
+        font-size: 1.5rem;
+    }
+}

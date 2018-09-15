@@ -1,0 +1,933 @@
+{
+    "mainMenu": [
+        {
+            "name": "Android News",
+            "permalink": "category/news"
+        },
+        {
+            "name": "Tech News",
+            "permalink": "category/tech-news"
+        },
+        {
+            "name": "Brand News",
+            "permalink": "brands",
+            "children": [
+                {
+                    "name": "Amazon News",
+                    "permalink": "category/amazon"
+                },
+                {
+                    "name": "ASUS News",
+                    "permalink": "category/asus"
+                },
+                {
+                    "name": "Blackberry News",
+                    "permalink": "category/blackberry"
+                },
+                {
+                    "name": "HTC News",
+                    "permalink": "category/htc"
+                },
+                {
+                    "name": "Huawei News",
+                    "permalink": "category/huawei"
+                },
+                {
+                    "name": "Lenovo News",
+                    "permalink": "category/lenovo"
+                },
+                {
+                    "name": "LG News",
+                    "permalink": "category/lg"
+                },
+                {
+                    "name": "Motorola News",
+                    "permalink": "category/motorola"
+                },
+                {
+                    "name": "Nokia News",
+                    "permalink": "category/nokia"
+                },
+                {
+                    "name": "OnePlus News",
+                    "permalink": "category/oneplus"
+                },
+                {
+                    "name": "Samsung News",
+                    "permalink": "category/samsung"
+                },
+                {
+                    "name": "Sony News",
+                    "permalink": "category/sony"
+                },
+                {
+                    "name": "Xiaomi News",
+                    "permalink": "category/xiaomi"
+                }
+            ]
+        },
+        {
+            "name": "Google News",
+            "permalink": "category/google-news"
+        },
+        {
+            "name": "Reviews",
+            "permalink": "category/reviews"
+        },
+        {
+            "name": "Special Features",
+            "permalink": "category/features"
+        },
+        {
+            "name": "Best Tech Deals",
+            "permalink": "category/best-cell-phone-deals"
+        },
+        {
+            "name": "Giveaways",
+            "permalink": "category/giveaways"
+        },
+        {
+            "name": "More",
+            "permalink": "more",
+            "children": [
+                {
+                    "name": "Android App & Game News",
+                    "permalink": "category/android-app-game-news"
+                },
+                {
+                    "name": "Carriers News",
+                    "permalink": "category/carriers"
+                },
+                {
+                    "name": "Mobile Event News",
+                    "permalink": "category/mobile-events"
+                },
+                {
+                    "name": "Contact",
+                    "permalink": "contact"
+                },
+                {
+                    "name": "Tips",
+                    "permalink": "news-tips"
+                },
+                {
+                    "name": "Advertise",
+                    "permalink": "advertise"
+                },
+                {
+                    "name": "Jobs",
+                    "permalink": "join-our-team"
+                }
+            ]
+        }
+    ],
+    "mainMenu1": [
+        {
+            "name": "Android News",
+            "permalink": "category/news"
+        },
+        {
+            "name": "Tech News",
+            "permalink": "category/tech-news"
+        },
+        {
+            "name": "Brand News",
+            "permalink": "brands",
+            "children": [
+                {
+                    "name": "Amazon News",
+                    "permalink": "category/amazon"
+                },
+                {
+                    "name": "ASUS News",
+                    "permalink": "category/asus"
+                },
+                {
+                    "name": "Blackberry News",
+                    "permalink": "category/blackberry"
+                },
+                {
+                    "name": "HTC News",
+                    "permalink": "category/htc"
+                },
+                {
+                    "name": "Huawei News",
+                    "permalink": "category/huawei"
+                },
+                {
+                    "name": "Lenovo News",
+                    "permalink": "category/lenovo"
+                },
+                {
+                    "name": "LG News",
+                    "permalink": "category/lg"
+                },
+                {
+                    "name": "Motorola News",
+                    "permalink": "category/motorola"
+                },
+                {
+                    "name": "Nokia News",
+                    "permalink": "category/nokia"
+                },
+                {
+                    "name": "OnePlus News",
+                    "permalink": "category/oneplus"
+                },
+                {
+                    "name": "Samsung News",
+                    "permalink": "category/samsung"
+                },
+                {
+                    "name": "Sony News",
+                    "permalink": "category/sony"
+                },
+                {
+                    "name": "Xiaomi News",
+                    "permalink": "category/xiaomi"
+                }
+            ]
+        },
+        {
+            "name": "Google News",
+            "permalink": "category/google-news"
+        },
+        {
+            "name": "Reviews",
+            "permalink": "category/reviews"
+        },
+        {
+            "name": "Special Features",
+            "permalink": "category/features"
+        },
+        {
+            "name": "More",
+            "permalink": "more",
+            "children": [
+                {
+                    "name": "Best Tech Deals",
+                    "permalink": "category/best-cell-phone-deals"
+                },
+                {
+                    "name": "Giveaways",
+                    "permalink": "category/giveaways"
+                },
+                {
+                    "name": "Android App & Game News",
+                    "permalink": "category/android-app-game-news"
+                },
+                {
+                    "name": "Carriers News",
+                    "permalink": "category/carriers"
+                },
+                {
+                    "name": "Mobile Event News",
+                    "permalink": "category/mobile-events"
+                },
+                {
+                    "name": "Contact",
+                    "permalink": "contact"
+                },
+                {
+                    "name": "Tips",
+                    "permalink": "news-tips"
+                },
+                {
+                    "name": "Advertise",
+                    "permalink": "advertise"
+                },
+                {
+                    "name": "Jobs",
+                    "permalink": "join-our-team"
+                }
+            ]
+        }
+    ],
+    "mainMenu2": [
+        {
+            "name": "Android News",
+            "permalink": "category/news"
+        },
+        {
+            "name": "Tech News",
+            "permalink": "category/tech-news"
+        },
+        {
+            "name": "Brand News",
+            "permalink": "brands",
+            "children": [
+                {
+                    "name": "Amazon News",
+                    "permalink": "category/amazon"
+                },
+                {
+                    "name": "ASUS News",
+                    "permalink": "category/asus"
+                },
+                {
+                    "name": "Blackberry News",
+                    "permalink": "category/blackberry"
+                },
+                {
+                    "name": "HTC News",
+                    "permalink": "category/htc"
+                },
+                {
+                    "name": "Huawei News",
+                    "permalink": "category/huawei"
+                },
+                {
+                    "name": "Lenovo News",
+                    "permalink": "category/lenovo"
+                },
+                {
+                    "name": "LG News",
+                    "permalink": "category/lg"
+                },
+                {
+                    "name": "Motorola News",
+                    "permalink": "category/motorola"
+                },
+                {
+                    "name": "Nokia News",
+                    "permalink": "category/nokia"
+                },
+                {
+                    "name": "OnePlus News",
+                    "permalink": "category/oneplus"
+                },
+                {
+                    "name": "Samsung News",
+                    "permalink": "category/samsung"
+                },
+                {
+                    "name": "Sony News",
+                    "permalink": "category/sony"
+                },
+                {
+                    "name": "Xiaomi News",
+                    "permalink": "category/xiaomi"
+                }
+            ]
+        },
+        {
+            "name": "Google News",
+            "permalink": "category/google-news"
+        },
+        {
+            "name": "Reviews",
+            "permalink": "category/reviews"
+        },
+        {
+            "name": "More",
+            "permalink": "more",
+            "children": [
+                {
+                    "name": "Special Features",
+                    "permalink": "category/features"
+                },
+                {
+                    "name": "Best Tech Deals",
+                    "permalink": "category/best-cell-phone-deals"
+                },
+                {
+                    "name": "Giveaways",
+                    "permalink": "category/giveaways"
+                },
+                {
+                    "name": "Android App & Game News",
+                    "permalink": "category/android-app-game-news"
+                },
+                {
+                    "name": "Carriers News",
+                    "permalink": "category/carriers"
+                },
+                {
+                    "name": "Mobile Event News",
+                    "permalink": "category/mobile-events"
+                },
+                {
+                    "name": "Contact",
+                    "permalink": "contact"
+                },
+                {
+                    "name": "Tips",
+                    "permalink": "news-tips"
+                },
+                {
+                    "name": "Advertise",
+                    "permalink": "advertise"
+                },
+                {
+                    "name": "Jobs",
+                    "permalink": "join-our-team"
+                }
+            ]
+        }
+    ],
+    "mainMenu3": [
+        {
+            "name": "Android News",
+            "permalink": "category/news"
+        },
+        {
+            "name": "Tech News",
+            "permalink": "category/tech-news"
+        },
+        {
+            "name": "Brand News",
+            "permalink": "brands",
+            "children": [
+                {
+                    "name": "Amazon News",
+                    "permalink": "category/amazon"
+                },
+                {
+                    "name": "ASUS News",
+                    "permalink": "category/asus"
+                },
+                {
+                    "name": "Blackberry News",
+                    "permalink": "category/blackberry"
+                },
+                {
+                    "name": "HTC News",
+                    "permalink": "category/htc"
+                },
+                {
+                    "name": "Huawei News",
+                    "permalink": "category/huawei"
+                },
+                {
+                    "name": "Lenovo News",
+                    "permalink": "category/lenovo"
+                },
+                {
+                    "name": "LG News",
+                    "permalink": "category/lg"
+                },
+                {
+                    "name": "Motorola News",
+                    "permalink": "category/motorola"
+                },
+                {
+                    "name": "Nokia News",
+                    "permalink": "category/nokia"
+                },
+                {
+                    "name": "OnePlus News",
+                    "permalink": "category/oneplus"
+                },
+                {
+                    "name": "Samsung News",
+                    "permalink": "category/samsung"
+                },
+                {
+                    "name": "Sony News",
+                    "permalink": "category/sony"
+                },
+                {
+                    "name": "Xiaomi News",
+                    "permalink": "category/xiaomi"
+                }
+            ]
+        },
+        {
+            "name": "Google News",
+            "permalink": "category/google-news"
+        },
+        {
+            "name": "More",
+            "permalink": "more",
+            "children": [
+                {
+                    "name": "Reviews",
+                    "permalink": "category/reviews"
+                },
+                {
+                    "name": "Special Features",
+                    "permalink": "category/features"
+                },
+                {
+                    "name": "Best Tech Deals",
+                    "permalink": "category/best-cell-phone-deals"
+                },
+                {
+                    "name": "Giveaways",
+                    "permalink": "category/giveaways"
+                },
+                {
+                    "name": "Android App & Game News",
+                    "permalink": "category/android-app-game-news"
+                },
+                {
+                    "name": "Carriers News",
+                    "permalink": "category/carriers"
+                },
+                {
+                    "name": "Mobile Event News",
+                    "permalink": "category/mobile-events"
+                },
+                {
+                    "name": "Contact",
+                    "permalink": "contact"
+                },
+                {
+                    "name": "Tips",
+                    "permalink": "news-tips"
+                },
+                {
+                    "name": "Advertise",
+                    "permalink": "advertise"
+                },
+                {
+                    "name": "Jobs",
+                    "permalink": "join-our-team"
+                }
+            ]
+        }
+    ],
+    "mainMenu4": [
+        {
+            "name": "Android News",
+            "permalink": "category/news"
+        },
+        {
+            "name": "Tech News",
+            "permalink": "category/tech-news"
+        },
+        {
+            "name": "Brand News",
+            "permalink": "brands",
+            "children": [
+                {
+                    "name": "Amazon News",
+                    "permalink": "category/amazon"
+                },
+                {
+                    "name": "ASUS News",
+                    "permalink": "category/asus"
+                },
+                {
+                    "name": "Blackberry News",
+                    "permalink": "category/blackberry"
+                },
+                {
+                    "name": "HTC News",
+                    "permalink": "category/htc"
+                },
+                {
+                    "name": "Huawei News",
+                    "permalink": "category/huawei"
+                },
+                {
+                    "name": "Lenovo News",
+                    "permalink": "category/lenovo"
+                },
+                {
+                    "name": "LG News",
+                    "permalink": "category/lg"
+                },
+                {
+                    "name": "Motorola News",
+                    "permalink": "category/motorola"
+                },
+                {
+                    "name": "Nokia News",
+                    "permalink": "category/nokia"
+                },
+                {
+                    "name": "OnePlus News",
+                    "permalink": "category/oneplus"
+                },
+                {
+                    "name": "Samsung News",
+                    "permalink": "category/samsung"
+                },
+                {
+                    "name": "Sony News",
+                    "permalink": "category/sony"
+                },
+                {
+                    "name": "Xiaomi News",
+                    "permalink": "category/xiaomi"
+                }
+            ]
+        },
+        {
+            "name": "More",
+            "permalink": "more",
+            "children": [
+                {
+                    "name": "Google News",
+                    "permalink": "category/google-news"
+                },
+                {
+                    "name": "Reviews",
+                    "permalink": "category/reviews"
+                },
+                {
+                    "name": "Special Features",
+                    "permalink": "category/features"
+                },
+                {
+                    "name": "Best Tech Deals",
+                    "permalink": "category/best-cell-phone-deals"
+                },
+                {
+                    "name": "Giveaways",
+                    "permalink": "category/giveaways"
+                },
+                {
+                    "name": "Android App & Game News",
+                    "permalink": "category/android-app-game-news"
+                },
+                {
+                    "name": "Carriers News",
+                    "permalink": "category/carriers"
+                },
+                {
+                    "name": "Mobile Event News",
+                    "permalink": "category/mobile-events"
+                },
+                {
+                    "name": "Contact",
+                    "permalink": "contact"
+                },
+                {
+                    "name": "Tips",
+                    "permalink": "news-tips"
+                },
+                {
+                    "name": "Advertise",
+                    "permalink": "advertise"
+                },
+                {
+                    "name": "Jobs",
+                    "permalink": "join-our-team"
+                }
+            ]
+        }
+    ],
+
+    "mobileMenuPanel": [
+        {
+            "name": "Android News",
+            "permalink": "category/news"
+        },
+        {
+            "name": "Tech News",
+            "permalink": "category/tech-news"
+        },
+        {
+            "name": "Brand News",
+            "permalink": "brands",
+            "children": [
+                {
+                    "name": "Amazon News",
+                    "permalink": "category/amazon"
+                },
+                {
+                    "name": "ASUS News",
+                    "permalink": "category/asus"
+                },
+                {
+                    "name": "Blackberry News",
+                    "permalink": "category/blackberry"
+                },
+                {
+                    "name": "HTC News",
+                    "permalink": "category/htc"
+                },
+                {
+                    "name": "Huawei News",
+                    "permalink": "category/huawei"
+                },
+                {
+                    "name": "Lenovo News",
+                    "permalink": "category/lenovo"
+                },
+                {
+                    "name": "LG News",
+                    "permalink": "category/lg"
+                },
+                {
+                    "name": "Motorola News",
+                    "permalink": "category/motorola"
+                },
+                {
+                    "name": "Nokia News",
+                    "permalink": "category/nokia"
+                },
+                {
+                    "name": "OnePlus News",
+                    "permalink": "category/oneplus"
+                },
+                {
+                    "name": "Samsung News",
+                    "permalink": "category/samsung"
+                },
+                {
+                    "name": "Sony News",
+                    "permalink": "category/sony"
+                },
+                {
+                    "name": "Xiaomi News",
+                    "permalink": "category/xiaomi"
+                }
+            ]
+        },
+        {
+            "name": "Google News",
+            "permalink": "category/google-news"
+        },
+        {
+            "name": "Reviews",
+            "permalink": "category/reviews"
+        },
+        {
+            "name": "Special Features",
+            "permalink": "category/features"
+        },
+        {
+            "name": "Best Tech Deals",
+            "permalink": "category/best-cell-phone-deals"
+        },
+        {
+            "name": "Giveaways",
+            "permalink": "category/giveaways"
+        },
+        {
+            "name": "More",
+            "permalink": "more",
+            "children": [
+                {
+                    "name": "Android App & Game News",
+                    "permalink": "category/android-app-game-news"
+                },
+                {
+                    "name": "Carriers News",
+                    "permalink": "category/carriers"
+                },
+                {
+                    "name": "Mobile Event News",
+                    "permalink": "category/mobile-events"
+                },
+                {
+                    "name": "Contact",
+                    "permalink": "contact"
+                },
+                {
+                    "name": "Tips",
+                    "permalink": "news-tips"
+                },
+                {
+                    "name": "Advertise",
+                    "permalink": "advertise"
+                },
+                {
+                    "name": "Jobs",
+                    "permalink": "join-our-team"
+                }
+            ]
+        }
+    ],
+
+
+    "footerMenu": [
+        {
+            "name": "About",
+            "permalink": "about"
+        },
+        {
+            "name": "Advertise",
+            "permalink": "advertise"
+        },
+        {
+            "name": "Staff",
+            "permalink": "site-authors"
+        },
+        {
+            "name": "Newsletter",
+            "permalink": "androidheadlines-newsletter"
+        },
+        {
+            "name": "Contact",
+            "permalink": "contact"
+        },
+        {
+            "name": "Privacy Policy",
+            "permalink": "privacy-policy"
+        }
+    ],
+    "footerMainMenu": [
+        {
+            "name": "Android News",
+            "permalink": "category/news"
+        },
+        {
+            "name": "Tech News",
+            "permalink": "category/tech-news"
+        },
+        {
+            "name": "Google News",
+            "permalink": "category/google-news"
+        },
+        {
+            "name": "Reviews",
+            "permalink": "category/reviews"
+        },
+        {
+            "name": "Special Features",
+            "permalink": "category/features"
+        },
+        {
+            "name": "Best Tech Deals",
+            "permalink": "category/best-cell-phone-deals"
+        },
+        {
+            "name": "Giveaways",
+            "permalink": "category/giveaways"
+        },
+        {
+            "name": "Android App & Game News",
+            "permalink": "category/android-app-game-news"
+        },
+        {
+            "name": "Carriers News",
+            "permalink": "category/carriers"
+        },
+        {
+            "name": "Mobile Event News",
+            "permalink": "category/mobile-events"
+        },
+        {
+            "name": "Android TV News",
+            "permalink": "category/android/tv"
+        },
+        {
+            "name": "Google Chrome News",
+            "permalink": "category/google-news/chrome"
+        },
+        {
+            "name": "Google Pixel News",
+            "permalink": "category/google-news/pixel"
+        },
+        {
+            "name": "Android Phones News",
+            "permalink": "category/news/phones"
+        },
+        {
+            "name": "Artificial Intelligence News",
+            "permalink": "category/tech-news/artificial-intelligence"
+        },
+        {
+            "name": "Awards",
+            "permalink": "category/mobile-events/awards"
+        },
+        {
+            "name": "Chinese Smartphones News",
+            "permalink": "category/chinese-smartphones"
+        },
+        {
+            "name": "Home Automation News",
+            "permalink": "category/tech-news/home-automation"
+        },
+        {
+            "name": "IOT News",
+            "permalink": "category/tech-news/iot"
+        },
+        {
+            "name": "Self Driving Car News",
+            "permalink": "category/tech-news/self-driving-car"
+        },
+        {
+            "name": "Smartphone Comparisons",
+            "permalink": "category/comparisons"
+        },
+        {
+            "name": "Top 10 Best Android Apps & Games",
+            "permalink": "category/android-app-game-news/best"
+        },
+        {
+            "name": "Ultimate Tech Gift Guides",
+            "permalink": "category/best-cell-phone-deals/gift-guide"
+        },
+        {
+            "name": "VR News",
+            "permalink": "category/tech-news/vr"
+        },
+        {
+            "name": "Wearables News",
+            "permalink": "category/wearables"
+        }
+    ],
+    "footerFootnoteMenu": [
+        {
+            "name": "Check Out Our Deals",
+            "permalink": "category/best-cell-phone-deals"
+        },
+        {
+            "name": "View Job Opportunities",
+            "permalink": "join-our-team"
+        },
+        {
+            "name": "Email An Insider Tip",
+            "permalink": "news-tips"
+        }
+    ],
+    "footerBrandMenu": [
+        {
+            "name": "Amazon News",
+            "permalink": "category/amazon"
+        },
+        {
+            "name": "ASUS News",
+            "permalink": "category/asus"
+        },
+        {
+            "name": "Blackberry News",
+            "permalink": "category/blackberry"
+        },
+        {
+            "name": "HTC News",
+            "permalink": "category/htc"
+        },
+        {
+            "name": "Huawei News",
+            "permalink": "category/huawei"
+        },
+        {
+            "name": "Lenovo News",
+            "permalink": "category/lenovo"
+        },
+        {
+            "name": "LG News",
+            "permalink": "category/lg"
+        },
+        {
+            "name": "Motorola News",
+            "permalink": "category/motorola"
+        },
+        {
+            "name": "Nokia News",
+            "permalink": "category/nokia"
+        },
+        {
+            "name": "OnePlus News",
+            "permalink": "category/oneplus"
+        },
+        {
+            "name": "Samsung News",
+            "permalink": "category/samsung"
+        },
+        {
+            "name": "Sony News",
+            "permalink": "category/sony"
+        },
+        {
+            "name": "Xiaomi News",
+            "permalink": "category/xiaomi"
+        }
+    ]
+}
