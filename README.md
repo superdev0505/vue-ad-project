@@ -1,4 +1,4 @@
-# ah
+# Vue ad project using Nuxt
 
 > Nuxt.js project
 
